@@ -6,4 +6,7 @@
 Вы — гуру аналитики, и партнёры просят вас подготовить исследование рынка. У вас есть открытые данные о заведениях общественного питания в Москве.
 
 
+[<b>проект в nbviewer</b>](https://nbviewer.org/github/Senyanordwest/yandex.praktikum/blob/main/project_09_moscow_food/project_9_moscow_food.ipynb)
+
+
 [презентация](https://disk.yandex.ru/i/iTicdYdSYZWYAw)
