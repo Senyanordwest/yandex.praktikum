@@ -21,3 +21,7 @@
   * 1) выделить целевые группы клиентов;
   * 2) предложить меры по снижению оттока;
   * 3) определить другие особенности взаимодействия с клиентами.
+
+
+
+[<b>проект в nbviewer</b>](https://nbviewer.org/github/Senyanordwest/yandex.praktikum/blob/main/project_12_ML/project_12_ML.ipynb)
