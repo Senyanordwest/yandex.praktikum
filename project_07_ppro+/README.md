@@ -14,3 +14,6 @@
   * сколько денег приносит каждый клиент,
   * когда расходы на привлечение клиента окупаются,
   * какие факторы мешают привлечению клиентов.
+
+
+[<b>проект в nbviewer</b>](https://nbviewer.org/github/Senyanordwest/yandex.praktikum/blob/main/project_04_telecom/project_4_to_gh.ipynb)
