@@ -16,4 +16,4 @@
 ## <b>Статус проекта</b><br/>
 ✔ выполнен <br/>
 
-[проект в nbviewer](https://nbviewer.org/github/Senyanordwest/yandex.praktikum/blob/main/project_03_estate/punenko_project_3_without_comment.ipynb)
+### [проект в nbviewer](https://nbviewer.org/github/Senyanordwest/yandex.praktikum/blob/main/project_03_estate/punenko_project_3_without_comment.ipynb)
