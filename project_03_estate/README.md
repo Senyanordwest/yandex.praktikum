@@ -8,4 +8,4 @@
 По каждой квартире на продажу доступны два вида данных. Первые вписаны пользователем, вторые — получены автоматически на основе картографических данных. Например, расстояние до центра, аэропорта, ближайшего парка и водоёма.<br/>
 
 
-проект в nbviewer
+[проект в nbviewer](https://nbviewer.org/github/Senyanordwest/yandex.praktikum/blob/main/project_03_estate/punenko_project_3_without_comment.ipynb)
